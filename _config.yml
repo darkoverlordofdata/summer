@@ -99,3 +99,5 @@ defaults:
       layout: recipe
       lang: en
       permalink: /:title/
+
+theme: jekyll-theme-minimal
